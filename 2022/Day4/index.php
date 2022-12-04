@@ -66,11 +66,8 @@ $answerPart2 = $day4->part2();
 
 echo <<<EOT
 <h1>Advent of code - Day 4</h1>
-<br/>
 <h2>Part 1</h2>
 In <strong>{$answerPart1}</strong> assigment pairs one pair fully contained another.
-<br/>
-<br/>
 <h2>Part 2</h2>
 In <strong>{$answerPart2}</strong> assignment pairs the ranges overlap.
 
